@@ -14,3 +14,4 @@ bin/WinDivert.dll
 bin/quic_initial_www_google_com.bin
 bin/cygwin1.dll
 bin/cook/quic_get.py
+bin/tls_clienthello_www_google_com.bin

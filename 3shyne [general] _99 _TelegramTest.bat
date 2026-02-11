@@ -37,8 +37,8 @@ start "zapret: %~n0" /min "%BIN%winws.exe" ^
   --dpi-desync-split-pos=1 ^
   --dpi-desync-fooling=ts ^
   --dpi-desync-repeats=8 ^
-  --dpi-desync-split-seqovl-pattern="%BIN%tls_3shyne_google_o.bin" ^
-  --dpi-desync-fake-tls="%BIN%tls_3shyne_google_o.bin" ^
+  --dpi-desync-split-seqovl-pattern="%BIN%tls_3shyne_generated_bing.bin" ^
+  --dpi-desync-fake-tls="%BIN%tls_3shyne_generated_bing.bin" ^
   --new ^
   --filter-tcp=443 ^
   --hostlist="%LISTS%list-google.txt" ^
@@ -48,8 +48,8 @@ start "zapret: %~n0" /min "%BIN%winws.exe" ^
   --dpi-desync-split-pos=1 ^
   --dpi-desync-fooling=ts ^
   --dpi-desync-repeats=8 ^
-  --dpi-desync-split-seqovl-pattern="%BIN%tls_3shyne_google_o.bin" ^
-  --dpi-desync-fake-tls="%BIN%tls_3shyne_google_o.bin" ^
+  --dpi-desync-split-seqovl-pattern="%BIN%tls_3shyne_generated_bing.bin" ^
+  --dpi-desync-fake-tls="%BIN%tls_3shyne_generated_bing.bin" ^
   --new ^
   --filter-tcp=80,443 ^
   --hostlist="%LISTS%list-general.txt" ^
@@ -60,8 +60,8 @@ start "zapret: %~n0" /min "%BIN%winws.exe" ^
   --dpi-desync-split-pos=1 ^
   --dpi-desync-fooling=ts ^
   --dpi-desync-repeats=8 ^
-  --dpi-desync-split-seqovl-pattern="%BIN%tls_3shyne_max_v1.bin" ^
-  --dpi-desync-fake-tls="%BIN%tls_3shyne_max_v1.bin" ^
+  --dpi-desync-split-seqovl-pattern="%BIN%tls_3shyne_generated_bing.bin" ^
+  --dpi-desync-fake-tls="%BIN%tls_3shyne_generated_bing.bin" ^
   --new ^
   --filter-udp=443 ^
   --ipset="%LISTS%ipset-all.txt" ^
@@ -80,8 +80,8 @@ start "zapret: %~n0" /min "%BIN%winws.exe" ^
   --dpi-desync-split-pos=1 ^
   --dpi-desync-fooling=ts ^
   --dpi-desync-repeats=8 ^
-  --dpi-desync-split-seqovl-pattern="%BIN%tls_3shyne_max_v1.bin" ^
-  --dpi-desync-fake-tls="%BIN%tls_3shyne_max_v1.bin" ^
+  --dpi-desync-split-seqovl-pattern="%BIN%tls_3shyne_generated_bing.bin" ^
+  --dpi-desync-fake-tls="%BIN%tls_3shyne_generated_bing.bin" ^
   --new ^
   --filter-udp=%GameFilter% ^
   --ipset="%LISTS%ipset-all.txt" ^
@@ -102,8 +102,8 @@ start "zapret: %~n0" /min "%BIN%winws.exe" ^
   --dpi-desync-fooling=ts ^
   --dpi-desync-repeats=6 ^
   --dpi-desync-autottl=2 ^
-  --dpi-desync-split-seqovl-pattern="%BIN%tls_3shine_ozon_v1.bin" ^
-  --dpi-desync-fake-tls="%BIN%tls_3shine_ozon_v1.bin" ^
+  --dpi-desync-split-seqovl-pattern="%BIN%tls_3shyne_generated_bing.bin" ^
+  --dpi-desync-fake-tls="%BIN%tls_3shyne_generated_bing.bin" ^
   --new ^
   --filter-udp=1400,3478 ^
   --ipset="%LISTS%ipset-telegram.txt" ^
