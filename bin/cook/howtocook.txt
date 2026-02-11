@@ -29,4 +29,4 @@ drag n drop new binary file to tls_mod.py
 u cooked garbage fake
 
 --Generate not real one
-open tsl_generate.py and type any domain
+open tls_generate.py and type any domain
