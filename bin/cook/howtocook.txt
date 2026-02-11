@@ -1,5 +1,4 @@
 0.
-download flowseal zapret as base
 install npcap
 install python and deps
 --pip install scapy
