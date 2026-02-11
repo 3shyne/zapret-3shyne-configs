@@ -1,0 +1,3 @@
+_o = original
+_v1.._v2 = little garbaged
+_v3.._v999 = heavy garbaged n obfuscated

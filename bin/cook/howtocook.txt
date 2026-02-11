@@ -1,0 +1,29 @@
+0.
+download flowseal zapret as base
+install npcap
+install python and deps
+--pip install scapy
+
+1.
+open cmd as admin
+
+2.
+cd to folder that contains .py scripts
+
+3.
+type -> tls_get.py -name something
+
+4.
+open additional cmd window not as admin
+
+5.
+type in additional cmd window something like -> curl -vI https://www.roskompozor.die/
+
+6.
+you got tls clienthello binary dump file
+
+7.
+drag n drop new binary file to tls_mod.py
+
+8.
+u cooked garbage fake
