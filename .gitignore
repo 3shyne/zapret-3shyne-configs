@@ -1,0 +1,15 @@
+service.bat
+utils/check_updates.enabled
+utils/targets.txt
+utils/test zapret.ps1
+lists/list-google.txt
+lists/list-general.txt
+lists/list-exclude.txt
+lists/ipset-exclude.txt
+lists/ipset-all.txt.backup
+lists/ipset-all.txt
+bin/winws.exe
+bin/WinDivert64.sys
+bin/WinDivert.dll
+bin/quic_initial_www_google_com.bin
+bin/cygwin1.dll
