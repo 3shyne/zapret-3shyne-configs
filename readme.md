@@ -13,7 +13,7 @@
     <small>Бесплатный прокси для Telegram от LumaxVPN</small>
   </a>
   <br>
-  <a href="3shyne-[general]-99-Telegram.bat">
+  <a href="/3shyne-[general]-99-Telegram.bat">
     <small>Конфиг для запрета</small>
   </a>
 </p>
